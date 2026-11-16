@@ -1,0 +1,14 @@
+# Generated CMake files and local installation.
+/build/
+/build-*/
+/out/
+/install/
+CMakeUserPresets.json
+
+# Local VCS Lite repositories and editor settings.
+.vcslite/
+.vscode/
+.idea/
+.DS_Store
+*.user
+*.suo
